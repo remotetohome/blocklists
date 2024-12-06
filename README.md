@@ -1,7 +1,7 @@
 
 
 # MAJOR UPDATE:
-Personal use fork from [![The Block List Project](https://github.com/blocklistproject/Lists)
+Personal use fork from [The Block List Project](https://github.com/blocklistproject/Lists)
 
 # License:
 
